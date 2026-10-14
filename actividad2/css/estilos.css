@@ -1,0 +1,23 @@
+	th{
+			color: indigo;
+			background-color:grey;
+			text-align: center;
+		}
+
+		td{
+			text-align: center;
+		}
+		.sistemas{
+			background-color: red;
+		}
+
+		.servicios{
+			background-color: pink;
+		}
+		.ipe{
+			background-color: lightyellow;
+		}
+
+		.web{
+			background-color: orangered;
+		}
