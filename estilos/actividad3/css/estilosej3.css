@@ -1,0 +1,57 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	background: lightyellow;
+	margin: 0 auto;
+	max-width: 1100px;
+}
+
+
+header h1{
+	color: blue; font-family: Audiowide;
+	text-align: center;
+}
+
+ ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: pink;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: blue;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+}
+
+ul li a:hover {
+  background-color: white;
+  color:red;
+}
+
+#destacado{
+	background-color: #ffffb2;
+	border: 2px dashed orange;
+	padding: 4px;
+}
+
+.caja{
+	margin: 2%;
+	padding: 5px;
+	width: 60%;
+	text-align: justify;
+	background-color: #ffffb2;
+	border: 2px;
+	border: 2px solid blue;
+}
